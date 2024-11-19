@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\diego\\desktop\\things\\educacion\\fidelitas\\quinto_quatri\\progra_avanzada\\tareas\\tarea2\\practica2grupo5\\views\\home\\detailslista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:views\\home\\detailslista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\diego\\desktop\\things\\educacion\\fidelitas\\quinto_quatri\\progra_avanzada\\tareas\\tarea2\\practica2grupo5\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\diego\\desktop\\things\\educacion\\fidelitas\\quinto_quatri\\progra_avanzada\\tareas\\tarea2\\practica2grupo5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\diego\\desktop\\things\\educacion\\fidelitas\\quinto_quatri\\progra_avanzada\\tareas\\tarea2\\practica2grupo5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\diego\\desktop\\things\\educacion\\fidelitas\\quinto_quatri\\progra_avanzada\\tareas\\tarea2\\practica2grupo5\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\diego\\desktop\\things\\educacion\\fidelitas\\quinto_quatri\\progra_avanzada\\tareas\\tarea2\\practica2grupo5\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\diego\\desktop\\things\\educacion\\fidelitas\\quinto_quatri\\progra_avanzada\\tareas\\tarea2\\practica2grupo5\\models\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:models\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\diego\\desktop\\things\\educacion\\fidelitas\\quinto_quatri\\progra_avanzada\\tareas\\tarea2\\practica2grupo5\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:46:25.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Views\\Home\\Test.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Test.cshtml",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Views\\Home\\Test.cshtml",
+              "RelativeToolTip": "Views\\Home\\Test.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:22:00.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailsLista.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Views\\Home\\DetailsLista.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DetailsLista.cshtml",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Views\\Home\\DetailsLista.cshtml",
+              "RelativeToolTip": "Views\\Home\\DetailsLista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:45:11.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:00:26.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Models\\dbContext.cs",
+              "RelativeDocumentMoniker": "Models\\dbContext.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Models\\dbContext.cs",
+              "RelativeToolTip": "Models\\dbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:58:29.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "Models\\Tarea.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Models\\Tarea.cs",
+              "RelativeToolTip": "Models\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:57:45.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Models\\Lista.cs",
+              "RelativeDocumentMoniker": "Models\\Lista.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Models\\Lista.cs",
+              "RelativeToolTip": "Models\\Lista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:56:57.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Things\\Educacion\\Fidelitas\\Quinto_Quatri\\Progra_Avanzada\\Tareas\\Tarea2\\Practica2Grupo5\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:56:08.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
