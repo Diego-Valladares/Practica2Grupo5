@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Practica2Grupo5.Models.Tarea>
+
+@if (Model == null || !Model.Any())
+{
+
+
+    <p class="text-center text-info">No hay tareas para este proyecto</p>
+}
+else
+{
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>descripcion</th>
+                <th>Completada</th>
+                <th>fecha creacion</th>
+                <th>fecha finalizacion</th>
+                <th>acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tarea in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => tarea.Descripcion)</td>
+                    <td>@Html.DisplayFor(modelItem => tarea.Completada)</td>
+                    <td>@Html.DisplayFor(modelItem => tarea.FechaCreacion)</td>
+                    <td>@Html.DisplayFor(modelItem => tarea.FechaLimite)</td>
+                    <td>
+                        <a href="@Url.Action("Edit", "Tarea", new {id = tarea.IdTarea})" class="btn btn-primary">modificar</a>
+                        <a href="@Url.Action("Details", "Tarea", new {id = tarea.IdTarea})" class="btn btn-warning">eliminar</a>
+                        <a href="@Url.Action("Delete", "Tarea", new {id = tarea.IdTarea})" class="btn btn-danger">eliminar</a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+}
