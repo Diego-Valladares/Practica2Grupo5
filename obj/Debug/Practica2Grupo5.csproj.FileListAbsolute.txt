@@ -247,3 +247,5 @@ C:\Users\reyna\OneDrive\Escritorio\Github\obj\Debug\Practica2Grupo5.csproj.CoreC
 C:\Users\reyna\OneDrive\Escritorio\Github\obj\Debug\Practica.9F6249C4.Up2Date
 C:\Users\reyna\OneDrive\Escritorio\Github\obj\Debug\Practica2Grupo5.dll
 C:\Users\reyna\OneDrive\Escritorio\Github\obj\Debug\Practica2Grupo5.pdb
+C:\Users\Usuario1\Source\Repos\Practica2Grupo5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario1\Source\Repos\Practica2Grupo5\bin\Microsoft.AspNet.Identity.Core.xml
