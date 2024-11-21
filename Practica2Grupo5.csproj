@@ -197,6 +197,11 @@
     <Content Include="Views\Tareas\Details.cshtml" />
     <Content Include="Views\Tareas\Edit.cshtml" />
     <Content Include="Views\Tareas\Index.cshtml" />
+    <Content Include="Views\Listas\Index.cshtml" />
+    <Content Include="Views\Listas\Edit.cshtml" />
+    <Content Include="Views\Listas\Details.cshtml" />
+    <Content Include="Views\Listas\Delete.cshtml" />
+    <Content Include="Views\Listas\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
