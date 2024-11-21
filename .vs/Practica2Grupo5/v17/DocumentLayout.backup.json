@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario1\\source\\repos\\Practica2Grupo5\\",
+  "WorkspaceRootPath": "C:\\Users\\reyna\\OneDrive\\Escritorio\\Github\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\usuario1\\source\\repos\\practica2grupo5\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\reyna\\onedrive\\escritorio\\github\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\reyna\\onedrive\\escritorio\\github\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\usuario1\\source\\repos\\practica2grupo5\\views\\shared\\_tareas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:views\\shared\\_tareas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\reyna\\onedrive\\escritorio\\github\\views\\listas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:views\\listas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|C:\\Users\\Usuario1\\source\\repos\\Practica2Grupo5\\Models\\Tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:Models\\Tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|c:\\users\\reyna\\onedrive\\escritorio\\github\\views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D10A921-BA08-4457-BB54-6DDAC2E6684F}|Practica2Grupo5.csproj|solutionrelative:views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,46 +29,55 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TareasController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario1\\source\\repos\\Practica2Grupo5\\Controllers\\TareasController.cs",
+              "DocumentMoniker": "C:\\Users\\reyna\\OneDrive\\Escritorio\\Github\\Controllers\\TareasController.cs",
               "RelativeDocumentMoniker": "Controllers\\TareasController.cs",
-              "ToolTip": "C:\\Users\\Usuario1\\source\\repos\\Practica2Grupo5\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Users\\reyna\\OneDrive\\Escritorio\\Github\\Controllers\\TareasController.cs",
               "RelativeToolTip": "Controllers\\TareasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:42:19.703Z",
+              "WhenOpened": "2024-11-21T03:45:48.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_tareas.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario1\\source\\repos\\Practica2Grupo5\\Views\\Shared\\_tareas.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_tareas.cshtml",
-              "ToolTip": "C:\\Users\\Usuario1\\source\\repos\\Practica2Grupo5\\Views\\Shared\\_tareas.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_tareas.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBIAAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\reyna\\OneDrive\\Escritorio\\Github\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\reyna\\OneDrive\\Escritorio\\Github\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:45:33.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\reyna\\OneDrive\\Escritorio\\Github\\Views\\Tareas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tareas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\reyna\\OneDrive\\Escritorio\\Github\\Views\\Tareas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tareas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T20:36:52.241Z",
+              "WhenOpened": "2024-11-21T03:45:16.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Tarea.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario1\\source\\repos\\Practica2Grupo5\\Models\\Tarea.cs",
-              "RelativeDocumentMoniker": "Models\\Tarea.cs",
-              "ToolTip": "C:\\Users\\Usuario1\\source\\repos\\Practica2Grupo5\\Models\\Tarea.cs",
-              "RelativeToolTip": "Models\\Tarea.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:57:45.395Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\reyna\\OneDrive\\Escritorio\\Github\\Views\\Listas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Listas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\reyna\\OneDrive\\Escritorio\\Github\\Views\\Listas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Listas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:45:11.096Z",
               "EditorCaption": ""
             }
           ]
